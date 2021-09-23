@@ -2,7 +2,7 @@
 
 ## Team Members
 - Dingyi Duan
-- Juliet Sieland-Harris
+- Juliet Sieland
 - Katie Hu
 
 ## Project Summary
