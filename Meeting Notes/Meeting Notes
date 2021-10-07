@@ -1,0 +1,54 @@
+Meeting 1: 9/22/21
+
+First Deadline: Monday, 9/27/21
+- EDA Finished
+- 2 Visuals
+
+
+Meeting 2
+Review Code, Continue Pre-processing
+
+Meeting 3: 10/6/21
+- Train, Valid, Test Split Data before Data Pre-Processing
+- Reviewed Each of Our Codes
+- Idea: Combine Month and Day and then split dates into quarters? 
+
+- Balance
+	- Normalize Numeric Values 
+	- Normalized in a plot - crosstabdestnorm
+	
+- Dummy Variables - 2 can deduce 
+
+Moving Forward: 
+- Decide on Dummy Variables
+- Converting Binary Values
+- Resample of data to balance data? 
+- Normalize Numeric Values
+- Do we need to resample to balance the data? Leaning towards no as a group consensus but will play by ear
+
+**PLAN FOR PROJECT**
+Import Data
+Transform Data (yes = 1 and dummy variables)
+	All yes/no turns into binary values
+	Dummy Variables: job, marital
+	Binning System: Job
+	Change Education to Ordinal to [0, .25, .5, 1]
+	
+Data Cleaning
+Train, Valid, Test Split - Set Random State
+Initial Modeling
+
+Separate Dataframe differences
+- no binning for job
+- remove outliers
+
+Train, Valid, Test Split 
+- Train .4
+- rest_data and test_size remaining (reference HW 2)
+- set random_state as same reference to HW 2
+
+
+Saturday 10:30 AM
+ - Meet to go over the all the information and have a model done
+ - Finalize Model by Monday Evening
+ - Module 6 Week - Executive Summary Powerpoint, fill in all the text for report, and video presentation. 
