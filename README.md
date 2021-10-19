@@ -33,6 +33,9 @@ Moro, S., Cortez, P., &amp; Rita, P. (2014). A Data-Driven Approach to Predict t
 #### Output variable (desired target):
 17. y - has the client subscribed a term deposit? (binary: "yes","no")
 ## Results
-*To be determined
+Random Forest
+Accuracy - .992
+Precision - Remained Consistent at 11.5%
+Reduction of Resources by 30%
 
-## Project Files
+
